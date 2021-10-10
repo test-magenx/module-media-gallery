@@ -12,7 +12,6 @@ use Magento\MediaGalleryApi\Model\ExcludedPatternsConfigInterface;
 
 /**
  * Media gallery directory config
- * @deprecated
  */
 class ExcludedPatternsConfig implements ExcludedPatternsConfigInterface
 {
