@@ -1,5 +1,5 @@
 {
-    "name": "test-magenx/module-media-gallery",
+    "name": "magenxcommerce/module-media-gallery",
     "description": "Magento module responsible for media handling",
     "require": {
         "php": "~7.1.3||~7.2.0||~7.3.0",
